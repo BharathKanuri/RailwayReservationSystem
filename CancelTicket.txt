@@ -1,0 +1,35 @@
+			*********************************************
+			             CANCELLATION RECIPT             
+			*********************************************
+				Name : Krishna
+
+				Age : 23
+
+				Mobile No : 6304645203
+
+				Email ID : krishna@gmail.com
+
+				Refund : 1662.5/-
+
+				Cancellation Charges : 87.5/-
+
+		Status : Booking Cancelled on Fri Aug 09 20:26:53 2024
+
+
+			*********************************************
+			             CANCELLATION RECIPT             
+			*********************************************
+				Name : Bharath
+
+				Age : 20
+
+				Mobile No : 7842565155
+
+				Email ID : bharathkanuri031@gmail.com
+
+				Refund : 1425/-
+
+				Cancellation Charges : 75/-
+
+		Status : Booking Cancelled on Fri Aug 09 20:27:57 2024
+

@@ -1,0 +1,25 @@
+			*********************************************
+			               ACKNOWLEDGEMENT               
+			*********************************************
+				Name : Bharath
+
+				Age : 20
+
+				Mobile No : 7842565155
+
+				Email ID : bharathkanuri031@gmail.com
+
+				Arrival : Vijayawada
+
+				Departure : Vizag
+
+				Coach : AC
+
+				Bearth No : 45
+
+				Bearth Type : MIDDLE
+
+				Total Fare : 1500/-
+
+		Status : Booking Confirmed on Fri Aug 09 20:27:54 2024
+
